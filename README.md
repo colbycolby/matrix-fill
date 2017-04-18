@@ -1,4 +1,5 @@
-# matrix-fill [![NPM version](https://img.shields.io/npm/v/fill-range.svg?style=flat)](https://www.npmjs.com/package/matrix-fill)
+# matrix-fill 
+[![NPM Version][npm-image]][npm-url]
 
 > Create and fill in 2D Array of any type.
 
@@ -48,3 +49,6 @@ fill(value, rows, columns);
 * `value`: **{*}** the value to fill the matrix with.
 * `rows`: **{Number}** the number of rows in the matrix.
 * `columns`: **{Number}** the number of columns in the matrix.
+
+[npm-image]: https://img.shields.io/npm/v/matrix-fill.svg
+[npm-url]: https://npmjs.org/package/matrix-fill
