@@ -1,0 +1,25 @@
+{
+  "name": "matrix-fill",
+  "version": "1.0.0",
+  "description": "Initializes and fills a 2D matrix with a given value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbyy/matrix-fill.git"
+  },
+  "keywords": [
+    "matrix",
+    "fill",
+    "2D",
+    "Array"
+  ],
+  "author": "cjscotta@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colbyy/matrix-fill/issues"
+  },
+  "homepage": "https://github.com/colbyy/matrix-fill#readme"
+}
